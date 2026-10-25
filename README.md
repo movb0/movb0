@@ -15,16 +15,6 @@
 
 <br>
 
-## ✿ Today's happy note
-
-<!--NOTE:START-->
-> You’re doing better than you think 🌷
-<!--NOTE:END-->
-
-<sub>A new note shows up every few hours ✨</sub>
-
-<br>
-
 ## ✿ Pick a flower
 
 <details>
@@ -124,7 +114,6 @@
   <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-F4A6C0?style=for-the-badge&logo=linkedin&logoColor=6B3E4E" alt="LinkedIn"></a>
   <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-FFE9A8?style=for-the-badge&logo=gmail&logoColor=6B3E4E" alt="Email"></a>
 </p>
-
 <!--
 **movb0/movb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
