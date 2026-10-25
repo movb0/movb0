@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://github.com/movb0/movb0/issues/new?title=%F0%9F%8C%B8+Hi+from+a+visitor&body=Say+hi+or+leave+a+happy+message+below!"><img src="https://img.shields.io/badge/💌_Say_hi_to_me-F4A6C0?style=for-the-badge&labelColor=F4A6C0" alt="Say hi"></a>
-<a href="mailto:your-email"><img src="https://img.shields.io/badge/🍯_Email_me-FFE9A8?style=for-the-badge&labelColor=FFE9A8&color=FFE9A8" alt="Email me"></a>
+<a href="mailto:bbamunuarachchi@gmail"><img src="https://img.shields.io/badge/🍯_Email_me-FFE9A8?style=for-the-badge&labelColor=FFE9A8&color=FFE9A8" alt="Email me"></a>
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ## ✿ About me
 
-[Your degree / year] student who enjoys building practical apps, from mobile apps to management systems. Currently looking for a **software engineering internship** where I can learn from a team and ship real features.
+Software engineering student who enjoys building practical apps, from mobile apps to management systems. Currently looking for a **software engineering internship** where I can learn from a team and ship real features.
 
 <br>
 
@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-F4A6C0?style=for-the-badge&logo=linkedin&logoColor=6B3E4E" alt="LinkedIn"></a>
-  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-FFE9A8?style=for-the-badge&logo=gmail&logoColor=6B3E4E" alt="Email"></a>
+  <a href="mailto:bbamunuarachchi@gmail.com"><img src="https://img.shields.io/badge/Email-FFE9A8?style=for-the-badge&logo=gmail&logoColor=6B3E4E" alt="Email"></a>
 </p>
 <!--
 **movb0/movb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
