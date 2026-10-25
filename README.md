@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://github.com/movb0/movb0/issues/new?title=%F0%9F%8C%B8+Hi+from+a+visitor&body=Say+hi+or+leave+a+happy+message+below!"><img src="https://img.shields.io/badge/💌_Say_hi_to_me-F4A6C0?style=for-the-badge&labelColor=F4A6C0" alt="Say hi"></a>
-<a href="mailto:bbamunuarachchi@gmail"><img src="https://img.shields.io/badge/🍯_Email_me-FFE9A8?style=for-the-badge&labelColor=FFE9A8&color=FFE9A8" alt="Email me"></a>
+<a href="mailto:bbamunuarachchi@gmail.com"><img src="https://img.shields.io/badge/🍯_Email_me-FFE9A8?style=for-the-badge&labelColor=FFE9A8&color=FFE9A8" alt="Email me"></a>
 
 </div>
 
@@ -119,7 +119,7 @@ A frontend development project showcasing website structure, styling, and intera
 ## ✿ Get in touch
 
 <p align="center">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-F4A6C0?style=for-the-badge&logo=linkedin&logoColor=6B3E4E" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/b-bamunuarachchi"><img src="https://img.shields.io/badge/LinkedIn-F4A6C0?style=for-the-badge&logo=linkedin&logoColor=6B3E4E" alt="LinkedIn"></a>
   <a href="mailto:bbamunuarachchi@gmail.com"><img src="https://img.shields.io/badge/Email-FFE9A8?style=for-the-badge&logo=gmail&logoColor=6B3E4E" alt="Email"></a>
 </p>
 <!--
