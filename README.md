@@ -62,18 +62,22 @@ Software engineering student who enjoys building practical apps, from mobile app
 ## ✿ Projects <sub>(tap to open)</sub>
 
 <details>
-<summary><b>📱 Tracky Mobile Application</b> · Java</summary>
+<summary><b>📱 Tracky Mobile Application</b> · React Native / Firebase</summary>
 <br>
 
-[One or two lines on what it does and what you built.](https://github.com/movb0/TrackyMobileApplication)
+A public transit app designed to help users access bus, train, and three-wheeler information in Sri Lanka, using GPS, schedules, and Google Maps integration.
+
+[View project](https://github.com/movb0/TrackyMobileApplication)
 
 </details>
 
 <details>
-<summary><b>🏥 Suwapiyasa Hospital Management System</b></summary>
+<summary><b>🏥 Suwapiyasa Hospital Management System</b> · SQL</summary>
 <br>
 
-[One or two lines on what it does and what you built.](https://github.com/movb0/SuwapiyasaHospitalManagementSystem)
+A hospital database management project featuring a normalized relational database, CRUD operations, and foreign-key relationships to manage hospital information.
+
+[View project](https://github.com/movb0/SuwapiyasaHospitalManagementSystem)
 
 </details>
 
@@ -81,15 +85,19 @@ Software engineering student who enjoys building practical apps, from mobile app
 <summary><b>🚕 Cab Service Management System</b> · Python</summary>
 <br>
 
-[One or two lines on what it does and what you built.](https://github.com/movb0/CabServiceManagementSystemm)
+A Python application that models a cab service system, focusing on application logic and cab service workflows.
+
+[View project](https://github.com/movb0/CabServiceManagementSystemm)
 
 </details>
 
 <details>
-<summary><b>🎀 Front-End Dev Project</b> · HTML / CSS</summary>
+<summary><b>🎀 Front-End Dev Project</b> · HTML / CSS / JavaScript</summary>
 <br>
 
-[One or two lines on what it does and what you built.](https://github.com/movb0/Front-end-Dev-Project1)
+A frontend development project showcasing website structure, styling, and interactive web design using core web technologies.
+
+[View project](https://github.com/movb0/Front-end-Dev-Project1)
 
 </details>
 
