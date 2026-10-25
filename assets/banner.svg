@@ -41,7 +41,7 @@
   <g class="twinkle t3"><use href="#spark" x="130" y="215" fill="#E8789F"/></g>
   <g class="twinkle t2"><use href="#spark" x="480" y="225" fill="#F9C6D6"/></g>
 
-  <text x="60" y="125" class="title">Hi, I'm [Your Name]</text>
+  <text x="60" y="125" class="title">Hi, I'm Banuri</text>
   <rect x="62" y="145" width="260" height="6" rx="3" fill="url(#bar)"/>
-  <text x="60" y="190" class="sub">Aspiring software engineer · looking for an internship</text>
+  <text x="60" y="190" class="sub">Aspiring software engineer </text>
 </svg>
