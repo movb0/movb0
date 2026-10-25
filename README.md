@@ -4,7 +4,7 @@
 
 <img src="./assets/mascot.svg" alt="Cute kitty mascot" width="260">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E8789F&center=true&vCenter=true&width=520&lines=Software+engineering+internship+candidate;Python+%7C+Java+%7C+JavaScript;Building+things+that+actually+work+%F0%9F%8C%B8" alt="Typing intro">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E8789F&center=true&vCenter=true&width=520&lines=Software+engineering;Python+%7C+Java+%7C+JavaScript;Building+things+that+actually+work+%F0%9F%8C%B8" alt="Typing intro">
 
 <br><br>
 
