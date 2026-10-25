@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Hi, I'm [Your Name]" width="100%">
+<img src="./assets/banner.svg" alt="Hi, I'm Banuri" width="100%">
 
 <img src="./assets/mascot.svg" alt="Cute kitty mascot" width="260">
 
